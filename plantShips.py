@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 15 19:12:13 2016
 
-@author: neeziv
+@author: neezivvv
 """
 
 def create_board():
